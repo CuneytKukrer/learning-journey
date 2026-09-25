@@ -11,3 +11,6 @@ https://www.linkedin.com/jobs/view/4406996263/ Ireckonu (Rejected — residency 
 https://www.linkedin.com/jobs/view/4469164831/ CoolBlue Team Lead C#  
 https://www.linkedin.com/jobs/view/4468460186/ SimCorp Senior Software Engineer  
 https://www.linkedin.com/jobs/view/4455262185/ SimCorp Lead Software Engineer (C#.NET) - Data & AI Products 
+
+# 25 September  
+"CoolBlue — phone screening completed. Emily Terpstra-van Beelen. Waiting: Mon/Tue feedback. Next: 3-stage process (culture fit, technical + assignment, role play)."
