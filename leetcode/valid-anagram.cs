@@ -1,6 +1,7 @@
 https://leetcode.com/problems/valid-anagram/  
+Easy
 Hash Table, String, Sorting  
-
+O(n), O(1)
 public bool IsAnagram(string s, string t)
 {
     if (s.Length != t.Length) return false;
