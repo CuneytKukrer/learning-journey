@@ -1,3 +1,8 @@
+https://leetcode.com/problems/valid-palindrome/  
+Easy
+Two Pointers, String 
+O(1)
+    
 public bool IsPalindrome(string s)
 {
     // İki adet işaretçi (pointer) tanımlıyoruz.
