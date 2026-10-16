@@ -1,3 +1,5 @@
+//Zaman: O(n), Alan: O(1)  
+
 public bool IsPalindrome(string s)
 {
     int left = 0, right = s.Length - 1;
