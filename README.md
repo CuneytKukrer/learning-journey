@@ -19,8 +19,8 @@ See [progress.md](./progress.md)
 - [CSAPP Notes](./notes/csapp.md)
 
 ## Labs
-- Mini scheduler simulator
-- (more coming)
+- [Mini scheduler simulator](./labs/mini-scheduler)
+- [ecommerce-lab](https://github.com/CuneytKukrer/ecommerce-lab) — Distributed e-commerce system (Cart, Inventory, Order, Payment, Notification, API Gateway)
 
 ## LeetCode
 C# solutions organized by pattern.
